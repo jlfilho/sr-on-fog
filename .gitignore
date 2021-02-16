@@ -37,9 +37,11 @@ demo/
 downloads/
 multi_video_sim/
 traces/5G/
+.vscode/
 
 # videos
 *.m4s
+
 
 
 # PyInstaller
